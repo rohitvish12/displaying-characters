@@ -1,5 +1,4 @@
 
-import { useState, useEffect } from 'react';
 import Cards from './Cards';
 import {Box, Grid} from '@material-ui/core'
 
